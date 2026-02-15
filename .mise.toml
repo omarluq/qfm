@@ -1,0 +1,7 @@
+[tools]
+go = "1.25"
+golangci-lint = "latest"
+"go:github.com/go-task/task/v3/cmd/task" = "latest"
+"go:github.com/air-verse/air" = "latest"
+"go:github.com/evilmartians/lefthook" = "latest"
+"go:github.com/goreleaser/goreleaser/v2" = "latest"
